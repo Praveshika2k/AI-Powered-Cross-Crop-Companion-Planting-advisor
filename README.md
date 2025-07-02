@@ -34,7 +34,7 @@ This project is an **AI-powered tool** that helps farmers and gardeners choose t
 
 ---
 
-## 📊 Visualization
+## Visualization
 
 The project includes scripts to plot:
 - Confusion matrix
@@ -45,7 +45,7 @@ The project includes scripts to plot:
 
 ---
 
-## 🌾 Why Use This Tool?
+## Why Use This Tool?
 
 - **Boost Yields:** Grow crops that help each other thrive.
 - **Save Resources:** Get smart advice on water and fertilizer use.
@@ -53,12 +53,12 @@ The project includes scripts to plot:
 
 ---
 
-## 🤝 Contributing
+## Contributing
 
 Pull requests and suggestions are welcome! Please open an issue first to discuss changes.
 
 ---
 
-## 📄 License
+## License
 
 This project is open-source and free to use under the MIT License.
